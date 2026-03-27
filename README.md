@@ -4,9 +4,9 @@ André Cunha
 Tiago Ribeiro
 
 Orientadores:
-Professor Doutor António Coelho
-Professor Doutor Manuel Firmino Torres
-Professora Doutora Maria van Zeller
+Professor Doutor António Coelho;
+Professor Doutor Manuel Firmino Torres;
+Professora Doutora Maria van Zeller.
 
 Co-orientadora:
 Professora Dra. Diana Quitéria Sousa

@@ -1,4 +1,5 @@
 # RotaNamban
+::: FEUP/INESC TEC :::
 By:
 André Cunha
 Tiago Ribeiro
@@ -11,6 +12,7 @@ Professora Doutora Maria van Zeller.
 Co-orientadora:
 Professora Dra. Diana Quitéria Sousa
 
-Museu Nacional Soares dos Reis
+::: Museu Nacional Soares dos Reis :::
+
 Coordenação Dra. Susana Medina Museu Nacional Soares dos Reis
 Orientação Dra. Paula Oliveira

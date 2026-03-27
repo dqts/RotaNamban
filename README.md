@@ -1,2 +1,16 @@
 # RotaNamban
-By:Professor Doutor António Coelho - Orientador  Professor Doutor Manuel Firmino Torres - Orientador  Professora Doutora Maria van Zeller - Orientadora  Professora Dra. Diana Quitéria Sousa - Coorientadora  Museu Nacional Soares dos Reis - Coordenação Dra. Susana Medina Museu Nacional Soares dos Reis - Orientação Dra. Paula Oliveira
+By:
+André Cunha
+Tiago Ribeiro
+
+Orientadores:
+Professor Doutor António Coelho
+Professor Doutor Manuel Firmino Torres
+Professora Doutora Maria van Zeller
+
+Co-orientadora:
+Professora Dra. Diana Quitéria Sousa
+
+Museu Nacional Soares dos Reis
+Coordenação Dra. Susana Medina Museu Nacional Soares dos Reis
+Orientação Dra. Paula Oliveira

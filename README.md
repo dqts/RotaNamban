@@ -15,5 +15,5 @@ Professora Dra. Diana Quitéria Sousa
 
 ::: Museu Nacional Soares dos Reis :::
 
-Coordenação Dra. Susana Medina Museu Nacional Soares dos Reis
-Orientação Dra. Paula Oliveira
+Coordenação: Dra. Susana Medina Museu Nacional Soares dos Reis;
+Orientação: Dra. Paula Oliveira

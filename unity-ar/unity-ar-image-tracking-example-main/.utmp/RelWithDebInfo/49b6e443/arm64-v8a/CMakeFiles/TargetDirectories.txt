@@ -1,0 +1,5 @@
+D:/jogo/novo5/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/49b6e443/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/jogo/novo5/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/49b6e443/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/jogo/novo5/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/49b6e443/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+D:/jogo/novo5/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/49b6e443/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+D:/jogo/novo5/unity-ar-image-tracking-example-main/.utmp/RelWithDebInfo/49b6e443/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
